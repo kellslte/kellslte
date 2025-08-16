@@ -39,6 +39,8 @@ If you're interested in creating something awesome or learning more about backen
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 
 ### ☁️ Cloud & DevOps
@@ -52,7 +54,22 @@ If you're interested in creating something awesome or learning more about backen
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
 </div>
+
+---
+
+## 🔮 Technologies I'm Exploring
+
+I'm passionate about staying at the forefront of emerging technologies and constantly expanding my knowledge in these exciting areas:
+
+- **🤖 MCP (Model Context Protocol)** - Exploring the future of AI agent development and model integration
+- **🧠 Machine Learning** - Building intelligent systems and predictive models
+- **⚡ AI Engineering** - Developing scalable AI infrastructure and applications
+- **🔗 Blockchain & Web3** - Building decentralized applications and exploring the future of the web
+
+These technologies represent the cutting edge of software development, and I'm excited to contribute to their evolution while helping others understand their potential.
 
 ---
 
