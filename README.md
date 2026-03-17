@@ -16,6 +16,21 @@ Currently focused on:
 
 ## Featured Projects
 
+### Driverless (Flagship Project)
+
+A system design exploration of building a real-time ride-hailing platform inspired by Uber.
+
+Focus areas:
+• real-time systems  
+• distributed architecture  
+• geospatial indexing  
+• marketplace design  
+
+Repo:
+https://github.com/kellslte/driverless
+
+---
+
 ### Multi-Tenant SaaS Platform
 
 A scalable SaaS architecture supporting isolated tenant environments.
