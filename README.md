@@ -1,7 +1,7 @@
 # Favour Chidera Max-Oti
 
 Full-Stack Product Engineer
-TypeScript • Node.js • React • PostgreSQL • AI-powered systems
+TypeScript • Node.js • Golang • PHP • React • PostgreSQL • AI-powered systems
 
 I build scalable platforms, developer tools, and data-centric web applications.
 
@@ -87,13 +87,6 @@ I enjoy working on:
 • developer productivity tooling
 • distributed systems
 • AI-augmented engineering workflows
-
----
-
-## Writing
-
-Designing a Multi-Tenant SaaS Platform with NestJS
-(link to article once published)
 
 ---
 
